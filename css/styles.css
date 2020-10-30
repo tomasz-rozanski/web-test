@@ -1,0 +1,16 @@
+* {
+}
+body {
+    font-family: Roboto, Verdana, Arial, Helvetica, sans-serif;
+    width: 50%;
+	color: yellow;
+	background-color: black;
+    margin: auto;
+}
+
+pre {
+	padding: 1rem;
+	border: 1px #aaa solid;
+	background-color: #eee;
+	color: black;
+}
